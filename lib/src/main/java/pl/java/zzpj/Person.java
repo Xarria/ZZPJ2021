@@ -10,7 +10,7 @@ public class Person {
     String name;
 
     public String sayHi(){
-        return "Good Morning! My name is " + name;
+        return "Good Afternoon! My name is " + name;
     }
 
 }
